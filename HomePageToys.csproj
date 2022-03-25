@@ -6,6 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Description>Package to hold some of the smaller HomePage Toys</Description>
+    <RepositoryUrl>https://github.com/roman015-com/HomePageToys</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/roman015-com/HomePageToys</PackageProjectUrl>
   </PropertyGroup>
 
 
