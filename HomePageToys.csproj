@@ -8,6 +8,8 @@
     <Description>Package to hold some of the smaller HomePage Toys</Description>
     <RepositoryUrl>https://github.com/roman015-com/HomePageToys</RepositoryUrl>
     <PackageProjectUrl>https://github.com/roman015-com/HomePageToys</PackageProjectUrl>
+    <Version>1.0.1</Version>
+    <PackageReleaseNotes>Added the StarWars page</PackageReleaseNotes>
   </PropertyGroup>
 
 
@@ -18,6 +20,7 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Components.Web" Version="6.0.1" />
     <PackageReference Include="QRCoder" Version="1.4.1" />
+    <PackageReference Include="Roman015ApiClient" Version="1.0.14" />
   </ItemGroup>
 
 </Project>
